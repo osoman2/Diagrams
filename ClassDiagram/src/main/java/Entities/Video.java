@@ -1,6 +1,6 @@
 package Entities;
 
-public class Video {
+public class Video extends Content{
 
     String description;
 

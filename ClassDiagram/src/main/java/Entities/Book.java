@@ -1,6 +1,6 @@
 package Entities;
 
-public class Book {
+public class Book extends Content{
     private int id;
     String title;
     String description;

@@ -10,8 +10,8 @@ public class Content {
     public void dowload_content(){
 
     }
-    public void set_ver(){
-        
+    public void set_verificacion(){
+
     }
 
 }

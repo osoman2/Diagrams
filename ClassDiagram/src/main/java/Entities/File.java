@@ -1,6 +1,6 @@
 package Entities;
 
-public class File {
+public class File extends Content{
 
     String description;
 

@@ -2,7 +2,7 @@ package Entities;
 
 public class Publication {
     String type="";
-    String content="";
+    Category category;
     float ranking=0;
 
     public Publication() {

@@ -1,14 +1,17 @@
 package Entities;
 
 public class Content {
-    ArrayList<Book> books = new ArrayList<Book>();
-    ArrayList<Video> videos = new ArrayList<Video>();
-    ArrayList<File> files = new ArrayList<File>();
+    private boolean verified;
     private int id;
 
     public Content(){
 
     }
+    public void dowload_content(){
 
+    }
+    public void set_ver(){
+        
+    }
 
 }
